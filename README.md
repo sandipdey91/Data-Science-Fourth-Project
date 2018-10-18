@@ -1,16 +1,22 @@
 Major Leagues
+==============================
+
+Data Regression Project
 
 Project Organization
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   └── raw            <- The original, immutable data dump.
-│
-├── notebooks          <- "To be, or not to be.ipynb"
+------------
 
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   └── raw            <- The original, immutable data dump. 		"Shakespeare_data.csv"
+    │
+    ├── notebooks          <- "To be, or not to be.ipynb"
+    │
+    ├── reports            <- Residual Graphs
 
+--------
 
-Major Leagues
-Data Regression - Project 4
+Major Leagues Data Regression - Project 4
 
 Soccer scores
 
